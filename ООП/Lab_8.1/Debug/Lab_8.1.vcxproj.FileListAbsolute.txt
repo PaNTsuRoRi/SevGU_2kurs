@@ -1,0 +1,2 @@
+E:\Учеба\ООП\Lab\Lab_8\Lab_8.1\Debug\Lab_8.1.exe
+E:\Учеба\ООП\Lab\Lab_8\Lab_8.1\Debug\Lab_8.1.pdb

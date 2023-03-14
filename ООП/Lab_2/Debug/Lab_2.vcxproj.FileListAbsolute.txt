@@ -1,0 +1,4 @@
+D:\Учеба\ООП\Lab\Lab_2\Debug\Lab_2.exe
+D:\Учеба\ООП\Lab\Lab_2\Debug\Lab_2.pdb
+D:\Учеба\ООП\Lab\Lab_2\Lab_2\Debug\Lab_2.exe
+D:\Учеба\ООП\Lab\Lab_2\Lab_2\Debug\Lab_2.pdb

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Transfer
+comment1.params=lines
+comment1.target=java.util.List\ StringsToDistributions(java.util.List)
+comment2.params=distributions
+comment2.target=java.util.List\ DistributionsToStrings(java.util.List)
+numComments=3

@@ -1,0 +1,15 @@
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.exe
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.deps.json
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.json
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.runtimeconfig.dev.json
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.dll
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\bin\Debug\netcoreapp3.1\Lab2.pdb
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csprojAssemblyReference.cache
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.Form.resources
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.GenerateResource.cache
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfoInputs.cache
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.AssemblyInfo.cs
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.dll
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.pdb
+D:\Учеба\Визуальное проектирование программ в MVS\Lab\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache

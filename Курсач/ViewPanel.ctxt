@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ViewPanel
+comment1.params=
+comment1.target=ViewPanel()
+comment2.params=
+comment2.target=void\ showTotal1()
+comment3.params=
+comment3.target=void\ showTotal2()
+comment4.params=
+comment4.target=void\ showFilter()
+comment5.params=
+comment5.target=void\ showSort()
+comment6.params=
+comment6.target=void\ showAll()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=8
